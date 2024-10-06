@@ -1,4 +1,4 @@
-# Arduino: Measuring atmospheric pollution
+# Arduino: Measuring temperature
 
 ## Getting started
 
